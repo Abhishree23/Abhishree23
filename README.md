@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Abhishree23
 - 👀 I’m interested in developing my coding skills
 - 🌱 I’m currently learning computer science for my btech degree
-- 💞️ I’m looking to collaborate on simple projects
+- 💞️ I’m looking to collaborate on some basic projects
 - 📫 How to reach me ...
+- 
 -  
 
 <!---
